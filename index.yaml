@@ -3,7 +3,17 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-05-09T11:57:22.804501+05:30"
+    created: "2026-05-09T12:40:54.043029+05:30"
+    description: A Helm chart for Kubernetes
+    digest: cd78883e187d847c130c9dd7741c8b1127d57e4382abaa6ac10c5728c990ec66
+    name: nginx-chart
+    type: application
+    urls:
+    - https://phanideep-tirumalasetty.github.io/nginx-chart/nginx-chart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-05-09T12:40:54.042608+05:30"
     description: A Helm chart for Kubernetes
     digest: 0bb785caacda346ddf81bb1f9ae8fb1a76e9c9c4bd074d03ca481034b10ac572
     name: nginx-chart
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://phanideep-tirumalasetty.github.io/nginx-chart/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-09T11:57:22.803736+05:30"
+generated: "2026-05-09T12:40:54.040758+05:30"
