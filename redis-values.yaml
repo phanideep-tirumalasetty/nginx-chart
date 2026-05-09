@@ -1,1 +1,8 @@
+cluster:
+  nodes: 6
 
+persistence:
+  enabled: true
+
+redis:
+  usePassword: true
