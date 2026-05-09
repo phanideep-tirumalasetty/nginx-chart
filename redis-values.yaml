@@ -1,5 +1,5 @@
 cluster:
-  nodes: 6
+  nodes: 1
 
 persistence:
   enabled: true
